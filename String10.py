@@ -6,6 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return s.index("p")
-print(main("python Programma"))
+    return s.index('x')
+print(main("iphone x is a mobile"))
+
+  
