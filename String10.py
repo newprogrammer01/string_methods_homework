@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return s.index("p")
+print(main("python Programma"))
