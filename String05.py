@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return str.capitalize(s)
+print(main(("python programma")))
