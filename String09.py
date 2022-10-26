@@ -7,5 +7,5 @@ def main(s):
         int: answer
     """
     
-    return s.count('c')
-print(main("codeschoolddeddwddc123"))
+    return s.count('a')
+print(main("codeschooluz"))
