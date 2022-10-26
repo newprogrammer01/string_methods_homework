@@ -8,4 +8,4 @@ def main(s):
     """
     
     return s.count('c')
-print(main("codeschool"))
+print(main("codeschoolddeddwddc123"))
