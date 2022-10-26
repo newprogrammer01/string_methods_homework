@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
 
-    return
+    return str.lower(s)
+print(main("Apple A good MobIle phone"))
+
