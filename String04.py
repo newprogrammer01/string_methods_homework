@@ -7,5 +7,5 @@ def main(s):
         bool: answer
     """
     
-    return str.isupper(s[0])
-print(main("Mobile"))
+    return str.islower(s)
+print(main("mobile"))
